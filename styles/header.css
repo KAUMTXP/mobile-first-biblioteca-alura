@@ -22,8 +22,16 @@
 
 h1 {
     display: none;
+
 }
 
+.lista-menu-título,.lista-menu-item{
+
+padding:1em ;
+background-color: var(--branco);
+
+}
+                
 @media screen and (min-width: 1024px) {
 
     h1 {
@@ -38,6 +46,8 @@ h1 {
                 display:block;
                 position: absolute;
                 top: 100%;
+            
+
             }
 
             
