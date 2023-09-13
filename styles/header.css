@@ -37,7 +37,6 @@ background-color: var(--branco);
 }
 .lista-menu-link  {
     background: var(--roxo);
-    background-clip: text;
     text-transform: uppercase;
 }  
 @media screen and (min-width: 1024px) {
