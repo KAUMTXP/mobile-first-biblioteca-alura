@@ -36,7 +36,7 @@ background-color: var(--branco);
     font-weight: 700;
 
 }
-.lista-menu-item {
+.lista-menu-link {
     background: var(--roxo);
     background-clip: ;
     text-transform:uppercase;
