@@ -33,6 +33,7 @@ background-color: var(--branco);
 }
 .lista-menu-título{
     color: var(--amarelo);
+    font-weight: 700;
 
 }
 .lista-menu-link {
