@@ -35,7 +35,7 @@ background-color: var(--branco);
     color: var(--amarelo);
 
 }
-.lista-menu-item  {
+.lista-menu-link {
     background: var(--roxo);
     text-transform: uppercase;
 }  
