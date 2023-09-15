@@ -36,9 +36,9 @@ background-color: var(--branco);
     font-weight: 700;
 
 }
-.lista-menu-link {
+.lista-menu-item {
     background: var(--roxo);
-    background-clip: text;
+    background-clip: ;
     text-transform:uppercase;
 }  
 .div-menu{
